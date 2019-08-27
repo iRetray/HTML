@@ -1,0 +1,2 @@
+La base de datos para montar es:	 colegiobd
+Los codigos de acceso estan en el bloc de notas: 	Codigos de Autorizacion
